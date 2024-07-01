@@ -1,0 +1,23 @@
+{
+  "name": "react-pdf",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/nodemailer": "^6.4.15",
+    "@types/react": "^18.3.3",
+    "typescript": "^5.5.2"
+  },
+  "dependencies": {
+    "@react-email/components": "0.0.20",
+    "@react-email/render": "0.0.16",
+    "@react-pdf/renderer": "^3.4.4",
+    "@types/react-dom": "^18.3.0",
+    "nodemailer": "^6.9.14",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-pdf-html": "^2.0.4"
+  }
+}
